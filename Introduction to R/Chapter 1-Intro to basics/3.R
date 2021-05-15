@@ -1,3 +1,4 @@
+#3
 # Variable assignment
 # A basic concept in (statistical) programming is called a variable.
 # 
