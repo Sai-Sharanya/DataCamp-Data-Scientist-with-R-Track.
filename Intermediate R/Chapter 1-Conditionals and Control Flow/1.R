@@ -1,4 +1,5 @@
-# Equality
+#1
+#Equality
 # The most basic form of comparison is equality. Let's briefly recap its syntax. The following statements all evaluate to TRUE (feel free to try them out in the console).
 # 
 # 3 == (2 + 1)
