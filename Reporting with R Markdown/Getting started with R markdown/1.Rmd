@@ -6,8 +6,7 @@ To create your report, you'll need to edit the Markdown file shown on the right 
 
 In each exercise, the first code chunk in the Markdown file will load the readr package and the datasets you'll be using in the exercise. You'll learn more about the details of this code chunk later in the course, but you won't need to modify it for any of the exercises in this chapter.
 
-Instructions
-0 XP
+
 Add the investment_annual_summary dataset to the code chunk in your report.
 -->
 
