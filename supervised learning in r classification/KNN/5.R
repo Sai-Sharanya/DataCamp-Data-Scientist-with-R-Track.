@@ -1,4 +1,4 @@
-#5\
+#5
 
 
 # Compute the accuracy of the baseline model (default k = 1)
@@ -16,7 +16,7 @@ mean(signs_actual == k_15)
 
 
 
-#-----6-------------------------------------------------------------------------------------
+#--------------------------------6----------------------------------------------------------
 
 
 # Use the prob parameter to get the proportion of votes for the winning class
